@@ -1,0 +1,22 @@
+Phonebook App
+
+Dependencies
+
+-Json-server
+-axios
+-redux (state management)(redux, react-redux)
+react-router-dom
+
+iş adımları;
+-veri yapısı ve ilişkilerin kurulması (json-server yapılandırılması)
+-global bir axios dosyası oluşturma
+-redux yapısı oluşturma (temel seviyede)
+    a. Store a taşınacak state e karar vermek (names ve phoneNumbers)
+-Router yapısını kurulması
+-Ul kütüphanesi olarak bootstrap kullanılacak
+
+UYGULAMADA KARŞILAŞILAN SORUNLAR;
+1- NameDetails bölümünde api.get ...... da params.nameId kısmı undefined yazıyor
+2- AddName Kısmında yeni kayıt oluşturduktan sonra listeleme sayfasına dönmüyor.
+3-Sayfaların hiç birinde Header kısmı gözükmüyor. 
+4-NameDetails kısmında da ekrana basılırken beyqz ekran geliyor. 

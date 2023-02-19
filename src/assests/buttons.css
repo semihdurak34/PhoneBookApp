@@ -1,0 +1,23 @@
+.generalBtn {
+    border: none;
+    border-radius: 4px;
+    padding: 3px 10px;
+    font-size: 16px;
+    margin-right: 5px;
+}
+
+.deleteBtn {
+    background-color: darkgoldenrod;
+    color: white
+}
+
+.updateBtn {
+    background-color: blue;
+    color: white;
+
+}
+
+.detailBtn {
+    background-color: tomato;
+    color: white;
+}

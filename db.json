@@ -1,0 +1,45 @@
+{
+  "names": [
+    {
+      "id": "1",
+      "firstName": "Serhat",
+      "lastName": "Durak",
+      "phoneNumber": "5556687088",
+      "work": "Engineer",
+      "categoryId": "2",
+      "sex": "male"
+    },
+    {
+      "id": "2",
+      "firstName": "Semih",
+      "lastName": "Durak",
+      "phoneNumber": "5556687088",
+      "work": "Engineer",
+      "categoryId": "3",
+      "sex": "male"
+    },
+    {
+      "id": "3",
+      "firstName": "Nuray",
+      "lastName": "Durak",
+      "phoneNumber": "5556687088",
+      "work": "Engineer",
+      "categoryId": "1",
+      "sex": "female"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "categoryName": "Family"
+    },
+    {
+      "id": "2",
+      "categoryName": "Friends"
+    },
+    {
+      "id": "3",
+      "categoryName": "Others"
+    }
+  ]
+}
